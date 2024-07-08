@@ -1,0 +1,5 @@
+azure:
+  eventhubs:
+    connection-string: "Endpoint=sb://remodelaieventhubs.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=aPB821E3V6pBFEFte6IaksRFByNwRk/oE+AEhKhpIAg="
+    eventhub-name: "remodelaieventhub"
+    consumer-group: "remodelai"
